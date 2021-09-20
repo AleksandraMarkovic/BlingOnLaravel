@@ -1,0 +1,149 @@
+#ikonice {
+    display: inline-flex;
+    flex-direction: row;
+    float: right;
+}
+
+#ikonice li {
+    margin-right: 10px;
+}
+#ikonice li a{
+    color: #4a4a4a;
+}
+
+#prazno {
+    height: 80px;
+}
+ .addToCart, #registerBtn, #loginBtn, #filterBtn, .removeCart, .buy, .deleteBtn, .updateBtn, #addProduct, #submitBtn {
+     background-color: #f33f3f;
+     color: #ffffff;
+ }
+
+ #btn-minus, #btn-plus {
+     background-color: #f33f3f;
+ }
+
+ #rating {
+     width: 7.5vw;
+ }
+
+ #pokaziFilter {
+     color: black;
+ }
+
+
+.page-item.active .page-link {
+    background-color: #f33f3f;
+    border-color: #f33f3f;
+}
+
+.page-link {
+    color: #f33f3f;
+}
+
+#emptyCart{
+    width: 100%;
+    min-height: 75vh;
+}
+
+#productType, #productColor {
+    width: 20%;
+}
+
+#activity {
+    min-height: 75vh;
+}
+
+@media screen and (max-width:768px){
+    #sortLabel, #searchLabel {
+        margin-top: 20px;
+        margin-bottom: 10px;
+    }
+
+    #register {
+        margin-top: 50px;
+    }
+
+    #forms {
+        flex-direction: column-reverse;
+    }
+
+    #productColor, #productType {
+        width: 50%;
+    }
+
+    #imageAuthor {
+        text-align: center!important;
+        margin-bottom: 20px;
+    }
+
+    #dateFilter {
+        margin-top: 20px;
+    }
+
+    .addToCart {
+        margin-top: 20px;
+        float: left!important;
+    }
+
+    .updateBtn, .deleteBtn {
+        float: left!important;
+        margin-right: 1.5vw;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

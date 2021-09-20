@@ -1,0 +1,7 @@
+Admin
+Email: markovic749@gmail.com
+Šifra: 12345678
+
+Korisnik
+Email: jelena@gmail.com
+Šifra: 12345678
