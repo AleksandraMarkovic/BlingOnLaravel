@@ -13,11 +13,11 @@ The functionalities in the project were done based on the role of the user.
 
 Admin: 
 - _email:_ markovic749@gmail.com
-- _lozinka:_ 12345678
+- _password:_ 12345678
 
 User: 
 - _email:_ jelena@gmail.com
-- _lozinka:_ 12345678
+- _password:_ 12345678
 
 
 ## Link to a hosted website
